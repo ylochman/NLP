@@ -288,7 +288,6 @@ def analyze(statement):
             response = random.choice(responses)
             return response.format(*[reflect(g) for g in match.groups()])
 
-# I feel depressed
 def main():
     print("ELIZA: " + random.choice(["Hi", "Hello"]) + ". " + random.choice(starter))
 
@@ -301,5 +300,4 @@ def main():
 
 
 if __name__ == "__main__":
-    print(len(psychobabble))
     main()
