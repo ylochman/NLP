@@ -1,2 +1,4 @@
 # Rule-based NLP
-## URL Segmentation
+
+* URL segmentation
+* ELIZA the therapist chatbot
