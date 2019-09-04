@@ -6,14 +6,14 @@
 
 ## Syntactic analysis. Semantic analysis (Module 3)
 
-* [Transition-Based Dependency Parser for Ukrainian](./Dependency-Parser/dep-parser-uk.ipynb)
-* [Word Sense Disambiguation with Simplified LESK for Ukrainian](./LESK/Lesk.ipynb)
+* [Transition-Based Dependency Parser for Ukrainian](./Dependency-Parser)
+* [Word Sense Disambiguation with Simplified LESK for Ukrainian](./LESK)
 
 
 ## Unsupervised Learning (Module 4)
 
-* [Request Classification](./Unsupervised-NLP/Request_Classification.ipynb)
+* [Request Classification](./Unsupervised-NLP)
 
 ## Deep Learning (Module 5)
 
-* [Named Entity Recognition with GloVe+BiLSTM](./Deep-Learning/NER_GloVe_BiLSTM.ipynb)
+* [Named Entity Recognition with GloVe+BiLSTM](./Deep-Learning)
