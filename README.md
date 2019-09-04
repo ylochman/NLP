@@ -12,7 +12,7 @@
 
 ## Unsupervised Learning (Module 4)
 
-* [Request Classification](./Unsupervised-NLP/Request_Classifier.ipynb)
+* [Request Classification](./Unsupervised-NLP/Request_Classification.ipynb)
 
 ## Deep Learning (Module 5)
 
