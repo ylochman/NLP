@@ -1,4 +1,9 @@
 # Natural Language Processing
+
+## Linguistic Foundations of NLP (Module 1)
+
+* [LanguageTool, Stemming and Lemmatization, POS Tagging, Syntactic and Semantic Analysis](./Linguistic-Foundations)
+
 ## Rule-based NLP (Module 2)
 
 * [URL segmentation](./URL-Segmentation)
